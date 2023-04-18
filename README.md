@@ -1,1 +1,1 @@
-Scripts for the Gaze Based Interaction Project
+Scripts for the Gaze Based Interaction Assignment
